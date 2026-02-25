@@ -8,8 +8,7 @@ export default function Home() {
     <div className="bg-slate-900 w-screen h-screen flex flex-col">
     <div className="w-96 max-w-[370px] mx-auto flex gap-2 flex-col">
       <form className="bg-slate-800 py-10 px-5 rounded-2xl mt-32">
-        <h1 className="text-white text-center text-2xl mb-6">Adicionando com JS</h1>
-        
+        <h1 className="text-white text-center text-2xl mb-6">Adicionando com JS</h1>    
     <div className="w-full">
       <input type="text" placeholder="Digite um item" className="w-full p-2 rounded bg-slate-600" />
     </div>
