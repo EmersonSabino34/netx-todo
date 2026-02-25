@@ -5,7 +5,6 @@ export default function Home() {
     alert('Hello Emerson')
   }
   return (
-    
     <div className="bg-slate-900 w-screen h-screen flex flex-col">
     <div className="w-96 max-w-[370px] mx-auto flex gap-2 flex-col">
       <form className="bg-slate-800 py-10 px-5 rounded-2xl mt-32">
