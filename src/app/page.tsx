@@ -12,8 +12,7 @@ export default function Home() {
         <h1 className="text-white text-center text-2xl mb-6">Adicionando com JS</h1>    
     <div className="w-full">
       <input type="text" placeholder="Digite um item" className="w-full p-2 rounded bg-slate-600" />
-    </div>
-        
+    </div>   
     <button onClick={MudarTarefa} className="mt-2 text-white w-full p-2 rounded bg-slate-600 hover:bg-green-700">Adicionar</button>
       </form>
       <ul className="overflow-hidden flex flex-col gap-2">
