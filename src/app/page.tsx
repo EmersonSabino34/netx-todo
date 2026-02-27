@@ -15,7 +15,6 @@ export default function Home() {
     </div>
         
     <button onClick={MudarTarefa} className="mt-2 text-white w-full p-2 rounded bg-slate-600 hover:bg-green-700">Adicionar</button>
-        
       </form>
       <ul className="overflow-hidden flex flex-col gap-2">
       <li className="p-3 bg-slate-800 text-white justify-between flex hover:bg-green-700 rounded-b-md">
